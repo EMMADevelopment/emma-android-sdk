@@ -1,5 +1,10 @@
 #CHANGELOG
 
+### 2.5.8 - 14/02/2017
+
+Bug fixed with close button in webviews when app do more than one call to checkWebView.
+[NEW] Added possibility of configure EMMA SessionKey in Android Manifest.
+
 ### 2.5.7 - 03/02/2017
 
 Bug fixed with scroll in webviews.
