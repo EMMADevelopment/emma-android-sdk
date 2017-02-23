@@ -1,5 +1,9 @@
 #CHANGELOG
 
+### 2.5.9 - 23/02/2017
+Added capability of open deeplinks in Banner comunications.
+Added capability of open deeplinks in webviews launched by in-app comunications.
+
 ### 2.5.8 - 14/02/2017
 
 Bug fixed with close button in webviews when app do more than one call to checkWebView.
