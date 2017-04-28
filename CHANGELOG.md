@@ -1,5 +1,9 @@
 #CHANGELOG
 
+### 2.5.9.1 - 28/03/2017
+
+Bug fixed with UUID.
+
 ### 2.5.9 - 23/02/2017
 Added capability of open deeplinks in Banner comunications.
 Added capability of open deeplinks in webviews launched by in-app comunications.
