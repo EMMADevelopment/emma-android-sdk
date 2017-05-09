@@ -1,5 +1,9 @@
 #CHANGELOG
 
+### 2.5.9.2 - 09/05/2017
+
+Bug fixed update user at init with google AID saved
+
 ### 2.5.9.1 - 28/03/2017
 
 Bug fixed with UUID.
