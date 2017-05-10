@@ -2,6 +2,10 @@
 
 ## Version 4
 
+### 4.0.2 - 09/05/2017
+
+Bug fixed update user at init with google AID saved.
+
 ### 4.0.1 - 28/04/2017
 
 [NEW] - Rules support. <br/>
