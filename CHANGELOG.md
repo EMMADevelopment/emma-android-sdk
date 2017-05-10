@@ -1,4 +1,14 @@
-#CHANGELOG
+# CHANGELOG
+
+## Version 4
+
+### 4.0.1 - 28/04/2017
+
+[NEW] - Rules support
+[NEW] - Event attribute support
+[IMPROVE] - Banner now uses full screen width
+
+## Version 2
 
 ### 2.5.9.2 - 09/05/2017
 
