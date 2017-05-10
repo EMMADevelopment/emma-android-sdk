@@ -12,7 +12,7 @@
 
 ### 2.5.9.2 - 09/05/2017
 
-Bug fixed update user at init with google AID saved
+Bug fixed update user at init with google AID saved.
 
 ### 2.5.9.1 - 28/03/2017
 
@@ -24,7 +24,7 @@ Added capability of open deeplinks in webviews launched by in-app comunications.
 
 ### 2.5.8 - 14/02/2017
 
-Bug fixed with close button in webviews when app do more than one call to checkWebView.
+Bug fixed with close button in webviews when app do more than one call to checkWebView. <br/>
 [NEW] Added possibility of configure EMMA SessionKey in Android Manifest.
 
 ### 2.5.7 - 03/02/2017
@@ -55,15 +55,15 @@ Minor bugs fixed.
 ### 2.5.2 - 12/07/2016
 
 [NEW] Added banner callback:
-  `eMMa.checkForBanner(Activity c, eMMaBannerInterface bannerInterface);`
-  `eMMa.checkForBanner(Activity c, Button button, eMMaBannerInterface bannerInterface);`
-  `eMMa.checkForBanner(Activity c, String label, eMMaBannerInterface bannerInterface);`
-  `eMMa.checkForBanner(Activity c, Map<String,String> params, eMMaBannerInterface bannerInterface);`
-  `eMMa.checkForBanner(Activity c, Button button, String label, eMMaBannerInterface bannerInterface);`
-  `eMMa.checkForBanner(Activity c, Button button, String label, int topMarginY, int topMarginX, eMMaBannerInterface bannerInterface);`
-  `eMMa.checkForBanner(Activity c, Button button, Map<String,String> params, eMMaBannerInterface bannerInterface);`
-  `eMMa.checkForBanner(Activity c, String label, Map<String,String> params, eMMaBannerInterface bannerInterface);`
-  `eMMa.checkForBanner(Activity c, Button button, String label, Map<String,String> params, eMMaBannerInterface bannerInterface);`
+  `eMMa.checkForBanner(Activity c, eMMaBannerInterface bannerInterface);` <br/>
+  `eMMa.checkForBanner(Activity c, Button button, eMMaBannerInterface bannerInterface);` <br/>
+  `eMMa.checkForBanner(Activity c, String label, eMMaBannerInterface bannerInterface);` <br/>
+  `eMMa.checkForBanner(Activity c, Map<String,String> params, eMMaBannerInterface bannerInterface);` <br/>
+  `eMMa.checkForBanner(Activity c, Button button, String label, eMMaBannerInterface bannerInterface);` <br/>
+  `eMMa.checkForBanner(Activity c, Button button, String label, int topMarginY, int topMarginX, eMMaBannerInterface bannerInterface);` <br/>
+  `eMMa.checkForBanner(Activity c, Button button, Map<String,String> params, eMMaBannerInterface bannerInterface);` <br/>
+  `eMMa.checkForBanner(Activity c, String label, Map<String,String> params, eMMaBannerInterface bannerInterface);` <br/>
+  `eMMa.checkForBanner(Activity c, Button button, String label, Map<String,String> params, eMMaBannerInterface bannerInterface);` <br/>
 
 
 ### 2.5.0.1 - 10/05/2016
