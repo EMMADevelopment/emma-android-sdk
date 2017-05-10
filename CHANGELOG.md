@@ -4,9 +4,9 @@
 
 ### 4.0.1 - 28/04/2017
 
-[NEW] - Rules support
-[NEW] - Event attribute support
-[IMPROVE] - Banner now uses full screen width
+[NEW] - Rules support. <br/>
+[NEW] - Event attribute support. <br/>
+[IMPROVE] - Banner now uses full screen width. <br/>
 
 ## Version 2
 
@@ -19,7 +19,7 @@ Bug fixed update user at init with google AID saved
 Bug fixed with UUID.
 
 ### 2.5.9 - 23/02/2017
-Added capability of open deeplinks in Banner comunications.
+Added capability of open deeplinks in Banner comunications. <br/>
 Added capability of open deeplinks in webviews launched by in-app comunications.
 
 ### 2.5.8 - 14/02/2017
