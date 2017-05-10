@@ -54,7 +54,7 @@ Minor bugs fixed.
 
 ### 2.5.2 - 12/07/2016
 
-[NEW] Added banner callback:
+[NEW] Added banner callback: <br/>
   `eMMa.checkForBanner(Activity c, eMMaBannerInterface bannerInterface);` <br/>
   `eMMa.checkForBanner(Activity c, Button button, eMMaBannerInterface bannerInterface);` <br/>
   `eMMa.checkForBanner(Activity c, String label, eMMaBannerInterface bannerInterface);` <br/>
