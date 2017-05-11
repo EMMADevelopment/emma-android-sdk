@@ -2,6 +2,10 @@
 
 ## Version 4
 
+### 4.0.3 - 11/05/2017
+
+Bug fixed with crash on misconfigured SDK.
+
 ### 4.0.2 - 09/05/2017
 
 Bug fixed update user at init with google AID saved.
