@@ -2,6 +2,10 @@
 
 ## Version 4
 
+### 4.0.4 - 16/05/2017
+
+[FIX] Start session when UDID was saved
+
 ### 4.0.3 - 11/05/2017
 
 Bug fixed with crash on misconfigured SDK.
