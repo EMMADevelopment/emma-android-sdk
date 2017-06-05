@@ -2,6 +2,16 @@
 
 ## Version 4
 
+### 4.0.6 - 31/05/2017
+
+[FIX] Banner now opens deeplink correctly in app communication. <br/>
+[FIX] Deeplink inside startview don't try to open itself anymore.
+
+### 4.0.5 - 19/05/2017
+
+[FIX] Now deeplinks opens correctly on AdBall. <br/>
+[FIX] Fixed crash on adball without startsession.
+
 ### 4.0.4 - 16/05/2017
 
 [FIX] Start session when UDID was saved
