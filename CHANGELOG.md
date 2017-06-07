@@ -2,12 +2,20 @@
 
 ## Version 4
 
+### 4.0.8 - 06/05/2017
+
+[FIX] Fixed strip show problem.
+
+### 4.0.7 - 01/05/2017
+
+[FIX] Multiples bugs fixed
+
 ### 4.0.6 - 31/05/2017
 
 [FIX] Banner now opens deeplink correctly in app communication. <br/>
 [FIX] Deeplink inside startview don't try to open itself anymore.
 
-### 4.0.5 - 19/05/2017
+### 4.0.5 - 19/05/2017
 
 [FIX] Now deeplinks opens correctly on AdBall. <br/>
 [FIX] Fixed crash on adball without startsession.
