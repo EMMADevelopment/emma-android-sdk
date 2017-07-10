@@ -2,6 +2,9 @@
 
 ## Version 4
 
+### 4.0.9 - 07/07/2017
+[IMPROVE] Removed READ_PHONE_STATE permission.
+
 ### 4.0.8 - 06/05/2017
 
 [FIX] Fixed strip show problem.
