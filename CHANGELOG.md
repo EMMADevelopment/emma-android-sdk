@@ -2,6 +2,15 @@
 
 ## Version 4
 
+### 4.1.0 - 12/09/2017
+[NEW] Native Ads <br/>
+[NEW] Automated tracking events <br/>
+[NEW] Modern method structure <br/>
+[IMPROVE] AdBall positioning & performance <br/>
+[IMPROVE] Rules: Automatic push now with Deeplinks <br/>
+[IMPROVE] Behavior & metrics in Messages <br/>
+[FIX] Bugs fixing
+
 ### 4.0.9 - 07/07/2017
 [IMPROVE] Removed READ_PHONE_STATE permission.
 
