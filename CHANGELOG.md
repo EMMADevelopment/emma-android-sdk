@@ -2,6 +2,9 @@
 
 ## Version 4
 
+### 4.1.1 - 13/09/2017
+[NEW] Cancel InAppMessage
+
 ### 4.1.0 - 12/09/2017
 [NEW] Native Ads <br/>
 [NEW] Automated tracking events <br/>
