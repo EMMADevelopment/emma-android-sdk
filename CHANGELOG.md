@@ -2,6 +2,10 @@
 
 ## Version 4
 
+### 4.1.2 - 20/09/2017
+[IMPROVE] Webview flow <br/>
+[IMPROVE] Avoid SSL Error on Android version lower than 5.0
+
 ### 4.1.1 - 13/09/2017
 [NEW] Cancel InAppMessage
 
