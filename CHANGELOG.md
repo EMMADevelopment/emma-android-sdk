@@ -2,6 +2,10 @@
 
 ## Version 4
 
+### 4.1.3 - 08/10/2017
+
+[FIX] Multiples bugs fixed
+
 ### 4.1.2 - 20/09/2017
 [IMPROVE] Webview flow <br/>
 [IMPROVE] Avoid SSL Error on Android version lower than 5.0
