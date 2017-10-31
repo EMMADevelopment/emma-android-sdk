@@ -2,6 +2,13 @@
 
 ## Version 4
 
+### 4.2.0 - 29/10/2017
+
+[NEW] Added support for Android Oreo (Android 8)<br>
+[NEW] Select color for push notification <br>
+[IMPROVE] Changes in the style of push notifications<br>
+[FIX] Bugs fixed
+
 ### 4.1.3 - 08/10/2017
 
 [FIX] Multiples bugs fixed
