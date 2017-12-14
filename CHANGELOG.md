@@ -3,7 +3,7 @@
 ## Version 4
 
 ### 4.2.1 - 13/12/2017
-FIX] Multiples bugs fixed
+[FIX] Multiples bugs fixed
 
 ### 4.2.0 - 29/10/2017
 
