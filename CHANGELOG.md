@@ -2,6 +2,10 @@
 
 ## Version 4
 
+### 4.2.2 - 18/12/2017
+[FIX] Fixed bug that added notification title with the app name in Android 7/N notifications<br>
+[FIX] Minor bugs fixes
+
 ### 4.2.1 - 13/12/2017
 [FIX] Multiples bugs fixed
 
