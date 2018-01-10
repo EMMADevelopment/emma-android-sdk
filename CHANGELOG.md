@@ -2,6 +2,13 @@
 
 ## Version 4
 
+### 4.2.4 - 10/01/2018
+[NEW] New feature Re-Targeting<br>
+[IMPROVE] In-app communications improves<br>
+[FIX] Fixed bug that was causing the session time calculation was wrong<br>
+[FIX] Fixed bug that sometimes produced a wrong behavior on the strip<br>
+[FIX] Minor bugs fixes
+
 ### 4.2.3 - 20/12/2017
 [FIX] Minor bugs fixes
 
