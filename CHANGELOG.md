@@ -1,6 +1,8 @@
 # CHANGELOG
 
 ## Version 4
+### 4.2.5 - 12/02/2018
+[FIX] Fix location to request permission when the startTrackingLocation method is invoked.
 
 ### 4.2.4 - 10/01/2018
 [NEW] New feature Re-Targeting<br>
