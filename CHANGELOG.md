@@ -1,6 +1,10 @@
 # CHANGELOG
 
 ## Version 4
+### 4.2.6 - 27/02/2018
+[NEW] Multiple Native Ad for a unique template id
+[FIX] Multiples bugs fixed
+
 ### 4.2.5 - 12/02/2018
 [FIX] Fix location to request permission when the startTrackingLocation method is invoked.
 
