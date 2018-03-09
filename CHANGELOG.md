@@ -1,6 +1,9 @@
 # CHANGELOG
 
 ## Version 4
+### 4.2.6 - 09/03/2018
+[FIX] Fixed problem that causes banner is displayed above the menu
+
 ### 4.2.6 - 27/02/2018
 [NEW] Multiple Native Ad for a unique template id
 [FIX] Multiples bugs fixed
