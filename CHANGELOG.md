@@ -1,7 +1,10 @@
 # CHANGELOG
 
 ## Version 4
-### 4.2.6 - 09/03/2018
+### 4.2.8 - 16/03/2018
+[NEW] Re-Targeting deep links with inapp CTA
+
+### 4.2.7 - 09/03/2018
 [FIX] Fixed problem that causes banner is displayed above the menu
 
 ### 4.2.6 - 27/02/2018
