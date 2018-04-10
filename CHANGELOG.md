@@ -1,6 +1,12 @@
 # CHANGELOG
 
 ## Version 4
+### 4.2.10 - 10/04/2018
+[FIX] In some cases version 4.2.9 did not properly download the dependencies by Gradle.
+
+### 4.2.9 - 10/04/2018
+[IMPROVE] Open deep links outside applications
+
 ### 4.2.8 - 16/03/2018
 [NEW] Re-Targeting deep links with inapp CTA
 
