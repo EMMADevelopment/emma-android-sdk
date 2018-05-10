@@ -1,6 +1,9 @@
 # CHANGELOG
 
 ## Version 4
+### 4.2.11 - 10/05/2018
+[NEW] Uninstalls pings.
+
 ### 4.2.10 - 10/04/2018
 [FIX] In some cases version 4.2.9 did not properly download the dependencies by Gradle.
 
