@@ -1,6 +1,9 @@
 # CHANGELOG
 
 ## Version 4
+### 4.2.12 - 23/05/2018
+[IMPROVE] GDPR adaptation.
+
 ### 4.2.11 - 10/05/2018
 [NEW] Uninstalls pings.
 
