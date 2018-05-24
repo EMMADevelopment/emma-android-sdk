@@ -1,6 +1,10 @@
 # CHANGELOG
 
 ## Version 4
+### 4.2.13 - 24/05/2018
+[NEW] Disable/enable automatic screen events.
+[FIX] Fix bug in versions < 4.4 with play services not installed on device.
+
 ### 4.2.12 - 23/05/2018
 [IMPROVE] GDPR adaptation.
 
