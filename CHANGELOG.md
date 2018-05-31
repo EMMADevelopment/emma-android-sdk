@@ -1,6 +1,9 @@
 # CHANGELOG
 
 ## Version 4
+### 4.2.14 - 31/05/2018
+[NEW] Unique click retargeting (retargeting 2).
+
 ### 4.2.13 - 24/05/2018
 [NEW] Disable/enable automatic screen events.
 [FIX] Fix bug in versions < 4.4 with play services not installed on device.
