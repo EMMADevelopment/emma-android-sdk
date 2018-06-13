@@ -1,6 +1,10 @@
 # CHANGELOG
 
 ## Version 4
+### 4.2.15 - 13/06/2018
+[FIX] Startview with no close action.
+[FIX] Minor bugs fixed.
+
 ### 4.2.14 - 31/05/2018
 [NEW] Unique click retargeting (retargeting 2).
 
