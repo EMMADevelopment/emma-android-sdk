@@ -1,6 +1,9 @@
 # CHANGELOG
 
 ## Version 4
+### 4.2.16 - 27/06/2018
+[FIX] Bugs fixed
+
 ### 4.2.15 - 13/06/2018
 [FIX] Startview with no close action.
 [FIX] Minor bugs fixed.
