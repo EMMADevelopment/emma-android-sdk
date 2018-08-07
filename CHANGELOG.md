@@ -1,6 +1,17 @@
 # CHANGELOG
 
 ## Version 4
+### 4.2.19 - 07/08/2018
+[FIX] Banner show time
+[FIX] Minor bugs fixed
+
+### 4.2.18 - 26/07/2018
+[FIX] Fixed crash in offline mode
+[FIX] Minor bugs fixed
+
+### 4.2.17 - 05/07/2018
+[FIX] Minor bugs fixed
+
 ### 4.2.16 - 27/06/2018
 [FIX] Bugs fixed
 
