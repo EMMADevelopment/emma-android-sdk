@@ -1,6 +1,14 @@
 # CHANGELOG
 
 ## Version 4
+### 4.3.0 - 07/11/2018
+[NEW] Support for short powlink urls
+[NEW] Support to get install attribution info
+[NEW] Added possibility to add channel name in notifications and new EMMAPushOptions
+[NEW] Support for attribution through Google Play installation referrer API
+[FIX] Location changes
+[FIX] Fixed minor bugs
+
 ### 4.2.19 - 07/08/2018
 [FIX] Banner show time
 [FIX] Minor bugs fixed
