@@ -2,19 +2,19 @@
 
 ## Version 4
 ### 4.3.0 - 07/11/2018
-[NEW] Support for short powlink urls
-[NEW] Support to get install attribution info
-[NEW] Added possibility to add channel name in notifications and new EMMAPushOptions
-[NEW] Support for attribution through Google Play installation referrer API
-[FIX] Location changes
+[NEW] Support for short powlink urls <br/>
+[NEW] Support to get install attribution info  <br/>
+[NEW] Added possibility to add channel name in notifications and new EMMAPushOptions  <br/>
+[NEW] Support for attribution through Google Play installation referrer API <br/>
+[FIX] Location changes  <br/>
 [FIX] Fixed minor bugs
 
 ### 4.2.19 - 07/08/2018
-[FIX] Banner show time
+[FIX] Banner show time  <br/>
 [FIX] Minor bugs fixed
 
 ### 4.2.18 - 26/07/2018
-[FIX] Fixed crash in offline mode
+[FIX] Fixed crash in offline mode  <br/>
 [FIX] Minor bugs fixed
 
 ### 4.2.17 - 05/07/2018
@@ -24,21 +24,21 @@
 [FIX] Bugs fixed
 
 ### 4.2.15 - 13/06/2018
-[FIX] Startview with no close action.
+[FIX] Startview with no close action  <br/>
 [FIX] Minor bugs fixed.
 
 ### 4.2.14 - 31/05/2018
 [NEW] Unique click retargeting (retargeting 2).
 
 ### 4.2.13 - 24/05/2018
-[NEW] Disable/enable automatic screen events.
-[FIX] Fix bug in versions < 4.4 with play services not installed on device.
+[NEW] Disable/enable automatic screen events  <br/>
+[FIX] Fix bug in versions < 4.4 with play services not installed on device
 
 ### 4.2.12 - 23/05/2018
-[IMPROVE] GDPR adaptation.
+[IMPROVE] GDPR adaptation
 
 ### 4.2.11 - 10/05/2018
-[NEW] Uninstalls pings.
+[NEW] Uninstalls pings
 
 ### 4.2.10 - 10/04/2018
 [FIX] In some cases version 4.2.9 did not properly download the dependencies by Gradle.
@@ -53,11 +53,11 @@
 [FIX] Fixed problem that causes banner is displayed above the menu
 
 ### 4.2.6 - 27/02/2018
-[NEW] Multiple Native Ad for a unique template id
+[NEW] Multiple Native Ad for a unique template id  <br/>
 [FIX] Multiples bugs fixed
 
 ### 4.2.5 - 12/02/2018
-[FIX] Fix location to request permission when the startTrackingLocation method is invoked.
+[FIX] Fix location to request permission when the startTrackingLocation method is invoked. 
 
 ### 4.2.4 - 10/01/2018
 [NEW] New feature Re-Targeting<br>
