@@ -1,6 +1,10 @@
 # CHANGELOG
 
 ## Version 4
+### 4.3.1 - 16/11/2018
+[FIX] Fixed banner param offset when is added in parent view ID <br/>
+[FIX] Fixed minor bugs
+
 ### 4.3.0 - 07/11/2018
 [NEW] Support for short powlink urls <br/>
 [NEW] Support to get install attribution info  <br/>
