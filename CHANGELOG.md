@@ -1,6 +1,9 @@
 # CHANGELOG
 
 ## Version 4
+### 4.3.2 - 21/11/2018
+[FIX] Performance improvement of attribution 
+
 ### 4.3.1 - 16/11/2018
 [FIX] Fixed banner param offset when is added in parent view ID <br/>
 [FIX] Fixed minor bugs
