@@ -1,6 +1,12 @@
 # CHANGELOG
 
 ## Version 4
+### 4.4.0 - 04/12/2018
+[NEW] New listener for check request status (inapp and event) <br/>
+[IMPROVE] Changes on inapp and event requests <br/>
+[FIX] Fixed bug that caused the method getUserInfo doesn't return data <br/>
+[FIX] Fixed minor bugs
+
 ### 4.3.2 - 21/11/2018
 [FIX] Performance improvement of attribution 
 
