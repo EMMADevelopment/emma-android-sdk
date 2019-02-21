@@ -1,6 +1,9 @@
 # CHANGELOG
 
 ## Version 4
+### 4.4.3 - 21/02/2019
+[FIX] Fix crash ConcurrentModification on inapp listeners
+
 ### 4.4.2 - 07/02/2019
 [FIX] Fix inapp callback onClose() executed with the physical button back <br/>
 [FIX] Fixed a crash that occurs, on some occasions, when the SDK is booted and the app goes to the background quickly
