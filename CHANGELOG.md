@@ -2,9 +2,9 @@
 
 ## Version 4
 ### 4.5.0 - 25/03/2019
-[IMPROVE] Replace GCM to FCM for push notification
-[FIX] Fixed problem in Short url attribution
-[FIX] Fixed redimension problem in animated gifs for banner
+[IMPROVE] Replace GCM to FCM for push notification <br/>
+[FIX] Fixed problem in Short url attribution <br/>
+[FIX] Fixed redimension problem in animated gifs for banner <br/>
 [FIX] Minor bugs
 
 ### 4.4.3 - 21/02/2019
