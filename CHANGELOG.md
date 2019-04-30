@@ -1,6 +1,10 @@
 # CHANGELOG
 
 ## Version 4
+### 4.5.1 - 30/04/2019
+[IMPROVE] Public methods in EMMAPushNotificationManager, handleNotification and refreshToken for use an existent FCM service <br/>
+[IMPROVE] Internal changes in login/register <br/>
+[FIX] Minor bugs fixed
 ### 4.5.0 - 25/03/2019
 [IMPROVE] Replace GCM to FCM for push notification <br/>
 [FIX] Fixed problem in Short Url Attribution <br/>
