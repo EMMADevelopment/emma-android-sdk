@@ -1,6 +1,9 @@
 # CHANGELOG
 
 ## Version 4
+### 4.5.2 - 31/05/2019
+[NEW] New method to start session in background <br/>
+[FIX] Minor bugs fixed
 ### 4.5.1 - 30/04/2019
 [IMPROVE] Public methods in EMMAPushNotificationManager, handleNotification and refreshToken for use an existent FCM service <br/>
 [IMPROVE] Internal changes in login/register <br/>
