@@ -1,6 +1,8 @@
 # CHANGELOG
 
 ## Version 4
+### 4.5.3 - 27/09/2019
+[FIX] Fixed params eatsubx in getUserInfo
 ### 4.5.2 - 31/05/2019
 [NEW] New method to start session in background <br/>
 [FIX] Minor bugs fixed
