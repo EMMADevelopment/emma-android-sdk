@@ -1,11 +1,13 @@
 # CHANGELOG
 
 ## Version 4
+## 4.6.1 - 07/03/2020
+[NEW] Click params for install attribution campaigns <br/>
+[FIX] Minor bugs.
 ## 4.6.0 - 27/02/2020
 [NEW] Params for campaigns in EMMAInAppMessageInterface <br/>
 [FIX] Fixed crash in strip . <br/>
 [FIX] Minor bugs.
-
 ### 4.5.3 - 27/09/2019
 [FIX] Fixed params eatsubx in getUserInfo
 ### 4.5.2 - 31/05/2019
