@@ -1,7 +1,7 @@
 # CHANGELOG
 
 ## Version 4
-## 4.6.1 - 07/03/2020
+## 4.6.1 - 07/04/2020
 [NEW] Click params for install attribution campaigns <br/>
 [FIX] Minor bugs.
 ## 4.6.0 - 27/02/2020
