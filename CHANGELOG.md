@@ -1,6 +1,8 @@
 # CHANGELOG
 
 ## Version 4
+## 4.6.2 - 02/06/2020
+[FIX] Fixed, in new dashboard the adball image looks square. Now is circular
 ## 4.6.1 - 07/04/2020
 [NEW] Click params for install attribution campaigns <br/>
 [FIX] Minor bugs.
