@@ -1,6 +1,8 @@
 # CHANGELOG
 
 ## Version 4
+## 4.7.0 - 23/06/2020
+[NEW] Integration with Huawei hms push.
 ## 4.6.2 - 02/06/2020
 [FIX] Fixed, in new dashboard the adball image looks square. Now is circular
 ## 4.6.1 - 07/04/2020
