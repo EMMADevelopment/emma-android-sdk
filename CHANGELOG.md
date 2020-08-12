@@ -1,6 +1,8 @@
 # CHANGELOG
 
 ## Version 4
+## 4.7.2 - 12/08/2020
+[NEW] Huawei attribution 
 ## 4.7.1 - 01/06/2020
 [NEW] New method to obtain deviceId
 ## 4.7.0 - 23/06/2020
