@@ -1,6 +1,8 @@
 # CHANGELOG
 
 ## Version 4
+## 4.7.3 - 14/08/2020
+[FIX] Incompatibility with Glide library 4.9
 ## 4.7.2 - 12/08/2020
 [NEW] Huawei attribution 
 ## 4.7.1 - 01/06/2020
