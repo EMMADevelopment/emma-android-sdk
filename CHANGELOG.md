@@ -1,6 +1,8 @@
 # CHANGELOG
 
 ## Version 4
+## 4.7.4 - 07/09/2020
+[IMPROVE] Performance improvements at start-up
 ## 4.7.3 - 14/08/2020
 [FIX] Incompatibility with Glide library 4.9
 ## 4.7.2 - 12/08/2020
