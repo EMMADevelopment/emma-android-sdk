@@ -1,6 +1,8 @@
 # CHANGELOG
 
 ## Version 4
+## 4.7.5 - 17/09/2020
+[FIX] Fixed crash when startview shows and activity is dying
 ## 4.7.4 - 07/09/2020
 [IMPROVE] Performance improvements at start-up
 ## 4.7.3 - 14/08/2020
