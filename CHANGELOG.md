@@ -1,6 +1,8 @@
 # CHANGELOG
 
 ## Version 4
+## 4.8.1
+[FIX] Sometimes restart requests could cause a crash
 ## 4.8.0
 [IMPROVE] Android X migration
 [NEW] New method to update customer id whitout login or register user event
