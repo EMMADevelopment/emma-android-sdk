@@ -1,7 +1,7 @@
 # CHANGELOG
 
 ## Version 4
-## 4.9.0 - 13/02/2021
+## 4.9.0 - 15/03/2021
 [NEW] New method to add inapp plugins
 ## 4.8.1 - 18/02/2021
 [FIX] Sometimes restart requests could cause a crash
