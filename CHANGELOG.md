@@ -1,12 +1,12 @@
 # CHANGELOG
 
 ## Version 4
-## 4.9.0
+## 4.9.0 - 13/02/2021
 [NEW] New method to add inapp plugins
-## 4.8.1
+## 4.8.1 - 18/02/2021
 [FIX] Sometimes restart requests could cause a crash
-## 4.8.0
-[IMPROVE] Android X migration
+## 4.8.0 - 12/11/2020
+[IMPROVE] Android X migration <br/>
 [NEW] New method to update customer id whitout login or register user event
 [FIX] Minor fixes and improves
 ## 4.7.5 - 17/09/2020
