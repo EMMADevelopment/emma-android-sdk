@@ -1,6 +1,8 @@
 # CHANGELOG
 
 ## Version 4
+## 4.9.0
+[NEW] New method to add inapp plugins
 ## 4.8.1
 [FIX] Sometimes restart requests could cause a crash
 ## 4.8.0
