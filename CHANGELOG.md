@@ -7,7 +7,8 @@
 [FIX] Sometimes restart requests could cause a crash
 ## 4.8.0 - 12/11/2020
 [IMPROVE] Android X migration <br/>
-[NEW] New method to update customer id whitout login or register user event
+[NEW] New method to update customer id whitout login or register user event <br/>
+[FIX] Fixed autogenate udid marked as huawei oaid<br/>
 [FIX] Minor fixes and improves
 ## 4.7.5 - 17/09/2020
 [FIX] Fixed crash when startview shows and activity is dying
