@@ -1,6 +1,10 @@
 # CHANGELOG
 
 ## Version 4
+## 4.9.2 - 19/08/2021
+[IMPROVE] Support with library FCM > 22.0.0 to obtain push token
+## 4.9.1 - 01/08/2021
+[NEW] New method handleLink to manage ulink and applink click in other entry point
 ## 4.9.0 - 15/03/2021
 [NEW] New method to add inapp plugins
 ## 4.8.1 - 18/02/2021
