@@ -1,6 +1,8 @@
 # CHANGELOG
 
 ## Version 4
+## 4.9.4 - 09/11/2021
+[IMPROVE] Update Android SDK targetto 31
 ## 4.9.3 - 07/10/2021
 [FIX] Update network dependency version
 ## 4.9.2 - 19/08/2021
