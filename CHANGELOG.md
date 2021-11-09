@@ -1,6 +1,8 @@
 # CHANGELOG
 
 ## Version 4
+## 4.9.3 - 07/10/2021
+[FIX] Update network dependency version
 ## 4.9.2 - 19/08/2021
 [IMPROVE] Support with library FCM > 22.0.0 to obtain push token
 ## 4.9.1 - 01/08/2021
