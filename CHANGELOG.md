@@ -1,6 +1,8 @@
 # CHANGELOG
 
 ## Version 4
+## 4.10.0 - 20/01/2022
+[NEW] Notifications with action buttons
 ## 4.9.5 - 10/11/2021
 [IMPROVE] Update Android SDK target to 31
 ## 4.9.3 - 07/10/2021
