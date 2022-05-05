@@ -2,7 +2,7 @@
 
 ## Version 4
 ## 4.11.0 - 05/05/2022
-[NEW] Click types for inapp communications Adball and Startview
+[NEW] Click types for inapp communications Adball and StartView <br/>
 [IMPROVE] Improved performance on events attribution, events are cached and disk reads has been decreased 
 ## 4.10.2 - 01/02/2022
 [IMPROVE] New Google Advertising ID policy. **IMPORTANT UPDATE to avoid device loss**
