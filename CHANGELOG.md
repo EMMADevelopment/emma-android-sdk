@@ -1,6 +1,8 @@
 # CHANGELOG
 
 ## Version 4
+## 4.11.1 - 16/06/2022
+[NEW] Support for Facebook install referrer
 ## 4.11.0 - 05/05/2022
 [NEW] Click types for inapp communications Adball and StartView <br/>
 [IMPROVE] Improved performance on events attribution, events are cached and disk reads has been decreased 
