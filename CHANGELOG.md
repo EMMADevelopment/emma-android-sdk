@@ -1,6 +1,8 @@
 # CHANGELOG
 
 ## Version 4
+## 4.11.2 - 05/07/2022
+[NEW] Compatibility with Families policy
 ## 4.11.1 - 16/06/2022
 [NEW] Support for Facebook install referrer
 ## 4.11.0 - 05/05/2022
