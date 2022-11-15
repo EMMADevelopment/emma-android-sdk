@@ -1,6 +1,8 @@
 # CHANGELOG
 
 ## Version 4
+## 4.11.4 - 15/11/2022
+[NEW] Close webview from web with deeplink ://startview/close
 ## 4.11.3 - 10/10/2022
 [FIX] Sometimes attribution causes ConcurrentModificationException when sending events in different threads.
 ## 4.11.2 - 05/07/2022
