@@ -1,6 +1,12 @@
 # CHANGELOG
 
 ## Version 4
+## 4.12.0 - 22/02/2023
+[NEW] New method to request Android 13 notification permission `requestNotificationsPermission` <br/>
+[NEW] New method to check if notifications are enabled `areNotificationsEnabled` <br/>
+[NEW] Updated minSdkTarget to Android 19 KikKat <br/>
+[FIX] Minor fixes and improves <br/>
+
 ## 4.11.4 - 15/11/2022
 [NEW] Close webview from web with deeplink ://startview/close
 ## 4.11.3 - 10/10/2022
