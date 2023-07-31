@@ -1,7 +1,7 @@
 # CHANGELOG
 
 ## Version 4
-## 4.12.0 - 28/06/2023
+## 4.12.1 - 28/06/2023
 [NEW] Support for notifications with title
 ## 4.12.0 - 22/02/2023
 [NEW] New method to request Android 13 notification permission `requestNotificationsPermission` <br/>
