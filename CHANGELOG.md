@@ -3,6 +3,7 @@
 ## Version 4
 ## 4.13.0 - 05/02/2024
 [NEW] setCurrencyCode method and startOrder currencyCode param are removed. Currency code is selected in EMMA Dashboard. All prices sent in the order will not be converted by EMMA to a specific currency, they will be interpreted as a unit value. <br/>
+[NEW] Updated minSdkTarget to Android 21 Lollipop  <br/>
 [FIX] Some RT clicks can fail if SDK is started before than click is processed.
 ## 4.12.1 - 28/06/2023
 [NEW] Support for notifications with title
