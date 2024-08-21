@@ -1,11 +1,13 @@
 # CHANGELOG
 
 ## Version 4
+## 4.14.1 - 20/08/2024
+[FIX] Fixed fatal crash with retrofit2 dependency when app has Android Gradle Plugin v8 and minifyEnabled is true.
 ## 4.14.0 - 11/07/2024
-[NEW] Added new method sendDismissedClick to send clicks when inapp is dismissed. <br/>
+[NEW] Added new method sendDismissedClick to send clicks when inapp is dismissed <br/>
 [IMPROVE] PII data saved in preferences is encrypted.
 ## 4.13.0 - 05/02/2024
-[NEW] setCurrencyCode method and startOrder currencyCode param are removed. Currency code is selected in EMMA Dashboard. All prices sent in the order will not be converted by EMMA to a specific currency, they will be interpreted as a unit value. <br/>
+[NEW] setCurrencyCode method and startOrder currencyCode param are removed. Currency code is selected in EMMA Dashboard. All prices sent in the order will not be converted by EMMA to a specific currency, they will be interpreted as a unit value <br/>
 [NEW] Updated minSdkTarget to Android 21 Lollipop  <br/>
 [FIX] Some RT clicks can fail if SDK is started before than click is processed.
 ## 4.12.1 - 28/06/2023
