@@ -1,8 +1,12 @@
 # CHANGELOG
 
 ## Version 4
+## 4.15.0 - 26/09/2024
+[NEW] Added new install attribution info callback in start session <br/>
+[IMPROVE] Sessions with times less than 10 seconds are discarded <br/>
+[FIX] Android notification miniature only when notification collapses 
 ## 4.14.1 - 20/08/2024
-[FIX] Fixed fatal crash with retrofit2 dependency when app has Android Gradle Plugin v8 and minifyEnabled is true.
+[FIX] Fixed fatal crash with retrofit2 dependency when app has Android Gradle Plugin v8 and minifyEnabled is true
 ## 4.14.0 - 11/07/2024
 [NEW] Added new method sendDismissedClick to send clicks when inapp is dismissed <br/>
 [IMPROVE] PII data saved in preferences is encrypted.
