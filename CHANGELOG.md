@@ -1,6 +1,10 @@
 # CHANGELOG
 
 ## Version 4
+## 4.15.1 - 11/10/2024
+Fixed ANR issue with tag sending when the device's connection is poor or nonexistent. In some cases, this could cause an ANR or a crash in the event of total connection loss
+## 4.14.2 - 11/10/2024
+[FIX] Fixed ANR issue with tag sending when the device's connection is poor or nonexistent. In some cases, this could cause an ANR or a crash in the event of total connection loss
 ## 4.15.0 - 26/09/2024
 [NEW] Added new install attribution info callback in start session <br/>
 [IMPROVE] Sessions with times less than 10 seconds are discarded <br/>
