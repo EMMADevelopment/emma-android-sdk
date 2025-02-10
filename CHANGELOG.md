@@ -1,6 +1,8 @@
 # CHANGELOG
 
 ## Version 4
+## 4.15.3 - 10/02/2025
+[IMPROVE] Prism and StartView are now displayed in the correct order, StartView is always displayed on top of any format
 ## 4.15.2 - 29/12/2024
 [IMPROVE] Optimize Proguard rules
 ## 4.15.1 - 11/10/2024
