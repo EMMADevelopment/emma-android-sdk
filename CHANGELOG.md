@@ -1,8 +1,10 @@
 # CHANGELOG
 
 ## Version 4
+## 4.15.2 - 29/12/2024
+[IMPROVE] Optimize Proguard rules
 ## 4.15.1 - 11/10/2024
-Fixed ANR issue with tag sending when the device's connection is poor or nonexistent. In some cases, this could cause an ANR or a crash in the event of total connection loss
+[FIX] Fixed ANR issue with tag sending when the device's connection is poor or nonexistent. In some cases, this could cause an ANR or a crash in the event of total connection loss
 ## 4.14.2 - 11/10/2024
 [FIX] Fixed ANR issue with tag sending when the device's connection is poor or nonexistent. In some cases, this could cause an ANR or a crash in the event of total connection loss
 ## 4.15.0 - 26/09/2024
