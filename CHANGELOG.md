@@ -2,9 +2,13 @@
 
 ## Version 4
 
+## 4.15.6 - 03/10/2025
+
+[FIX] Always call onSessionStarted even if the session is already started
+
 ## 4.15.5 - 04/04/2025
 
-[NEW] Added new setUserLanguage method. Allows users to manually set the language instead of relying on auto-detection.
+[NEW] Added new setUserLanguage method. Allows users to manually set the language instead of relying on auto-detection
 
 ## 4.15.4 - 10/03/2025
 
