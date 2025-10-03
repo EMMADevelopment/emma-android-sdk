@@ -2,6 +2,10 @@
 
 ## Version 4
 
+## 4.15.5 - 04/04/2025
+
+[NEW] Added new setUserLanguage method. Allows users to manually set the language instead of relying on auto-detection.
+
 ## 4.15.4 - 10/03/2025
 
 [FIX] Added cummunication params for NativeAd
