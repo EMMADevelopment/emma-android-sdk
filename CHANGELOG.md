@@ -2,6 +2,14 @@
 
 ## Version 4
 
+## 4.15.7 - 13/11/2025
+
+[FIX] ANR when downloading images from push notifications <br/>
+[FIX] Crash when receiving push notifications when the configuration is not initialized <br/>
+[FIX] Adaptation of the Strip to support edge-to-edge on Android 15 <br/>
+[IMPROVE] Improvement of the animation of the text in the Strip <br/>
+[IMPROVE] Color management for the status bar and icons in Strip and StartView
+
 ## 4.15.6 - 03/10/2025
 
 [FIX] Always call onSessionStarted even if the session is already started
