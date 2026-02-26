@@ -4,11 +4,11 @@
 
 ## 4.15.7 - 13/11/2025
 
-[FIX] Fixed ANR when downloading images from push notifications <br/>
-[FIX] Fixed crash when receiving push notifications while configuration is not initialized <br/>
-[FIX] Updated Strip to support edge-to-edge mode on Android 15 <br/>
-[IMPROVE] Improved Strip text animation <br/>
-[IMPROVE] Enhanced status bar and icon color handling in Strip and StartView
+[FIX] ANR when downloading images from push notifications <br/>
+[FIX] Crash when receiving push notifications when the configuration is not initialized <br/>
+[FIX] Adaptation of the Strip to support edge-to-edge on Android 15 <br/>
+[IMPROVE] Improvement of the animation of the text in the Strip <br/>
+[IMPROVE] Color management for the status bar and icons in Strip and StartView
 
 ## 4.15.6 - 03/10/2025
 
