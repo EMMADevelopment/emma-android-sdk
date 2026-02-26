@@ -2,6 +2,18 @@
 
 ## Version 4
 
+## 4.16.0 - 22/02/2026
+
+[NEW] Added setEmail method to set the user's email <br/>
+[NEW] Added setUserProfile method to manage the user's profile <br/>
+[NEW] Added trackUserTags method to track user tags <br/>
+[DEPRECATED] trackExtraUserInfo method deprecated in favor of trackUserTags <br/>
+[IMPROVE] Refactored setCustomerId <br/>
+[FIX] Added STKPrewarmingViewController to the auto-event blacklist <br/>
+[NEW] Added trackPurchase as a new unified method for purchase tracking <br/>
+[IMPROVE] Internal refactor renaming order to purchase for improved consistency <br/>
+[NEW] Added unregisterPushSystem method to unsubscribe from the push notification system
+
 ## 4.15.7 - 13/11/2025
 
 [FIX] ANR when downloading images from push notifications <br/>
